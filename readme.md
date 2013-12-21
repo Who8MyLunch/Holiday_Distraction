@@ -7,6 +7,6 @@ crack the code.  Let's see!
 
 Here is the image he sent me:
 
-[](https://github.com/Who8MyLunch/Holiday_Distration/blob/master/IMG_20131220_145924~2.jpg)
+![](https://github.com/Who8MyLunch/Holiday_Distration/blob/master/IMG_20131220_145924~2.jpg)
 
 
