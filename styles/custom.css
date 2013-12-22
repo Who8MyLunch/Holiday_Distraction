@@ -4,7 +4,7 @@
         src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
     }
     div.cell{
-        width:800px;
+        width:600px;
         margin-left:16% !important;
         margin-right:auto;
         /*background-color:#F1F0FF;  light blue*/
@@ -12,6 +12,7 @@
     }
     h1 {
         font-family: Helvetica, serif;
+        background-color: #FBFBFA;
     }
     h4{
         margin-top:12px;
@@ -21,9 +22,10 @@
         font-family: Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
         line-height: 145%;
         font-size: 130%;
-        width:800px;
+        width: 600px;
         margin-left:auto;
         margin-right:auto;
+        background-color: #FBFBFA;
     }
     .CodeMirror{
             font-family: "Source Code Pro", source-code-pro,Consolas, monospace;
@@ -37,6 +39,7 @@
         font-weight: 300;
         font-size: 22pt;
         color: #4057A1;
+        background-color: #FBFBFA;
         font-style: italic;
         margin-bottom: .5em;
         margin-top: 0.5em;
