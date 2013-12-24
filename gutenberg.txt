@@ -1,8 +1,8 @@
 Gutenberg
 
 http://www.cryptograms.org/letter-frequencies.php#Most_common_bigrams_.28in_order.29
-http://en.wikipedia.org/wiki/Letter_frequency
 
+http://www3.nd.edu/~busiforc/handouts/cryptography/Letter%20Frequencies.html#Results_from_Project_Gutenberg
 
 
 By letter   By frequency
